@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Liang
+name: Liang Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in Computer Engineering
+role: PhD Candidate in Computer Engineering
 
 # Organizations/Affiliations
 organizations:
 - name: University of Memphis
-  url: ""
+  url: "https://www.memphis.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include xAPI educational data mining, mobile computing and programmable matter.
