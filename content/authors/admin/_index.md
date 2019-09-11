@@ -21,21 +21,21 @@ organizations:
 bio: My research interests include xAPI educational data mining, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Engineering
+- Educaional Data Mining
 - Information Retrieval
+- Artificial Intelligence
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Engineering
+    institution: University of Memphis
+    year: 2017 - Now
+  - course: MEng in Mechanical Engineering
+    institution: University of Memphis
+    year: 2019 
+  - course: MEng in Mechanical Enhineering
+    institution: Tianjin University of Science & Technology
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
