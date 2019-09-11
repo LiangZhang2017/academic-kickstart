@@ -56,9 +56,9 @@ social:
   link: https://github.com/LiangZhang2017
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Liang Zhang is a PhD Candidate of Computer Engineering at the IIS (Institute for Intelligent System). His research interests include educational data mining and analytics, learning analytics and programmable matter. He also works as research assistant following Phil Pavlik in Optimal Learning Lab.                                                                                               
+Liang Zhang is a PhD Candidate of Computer Engineering at the IIS (Institute for Intelligent System). His research interests include educational data mining and analytics, learning analytics and programmable matter. He also works as research assistant following Phil Pavlik in Optimal Learning Lab.  
+
+
